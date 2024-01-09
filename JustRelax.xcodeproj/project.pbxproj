@@ -22,6 +22,14 @@
 		6A0860CA2A03982500B49B95 /* JustRelax_Watch_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A0860C92A03982500B49B95 /* JustRelax_Watch_AppTests.swift */; };
 		6A0860D42A03982500B49B95 /* JustRelax_Watch_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A0860D32A03982500B49B95 /* JustRelax_Watch_AppUITests.swift */; };
 		6A0860D62A03982500B49B95 /* JustRelax_Watch_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A0860D52A03982500B49B95 /* JustRelax_Watch_AppUITestsLaunchTests.swift */; };
+		6A2FB6632A0D04F9007DC939 /* BreathingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A2FB6622A0D04F9007DC939 /* BreathingView.swift */; };
+		6A45D99B2A1377BA00C3B632 /* shark_4.mov in Resources */ = {isa = PBXBuildFile; fileRef = 6A45D99A2A1377BA00C3B632 /* shark_4.mov */; };
+		6A45D99D2A1380F800C3B632 /* shark_1.mov in Resources */ = {isa = PBXBuildFile; fileRef = 6A45D99C2A1380F800C3B632 /* shark_1.mov */; };
+		6A45D99F2A13812E00C3B632 /* shark_2.mov in Resources */ = {isa = PBXBuildFile; fileRef = 6A45D99E2A13812E00C3B632 /* shark_2.mov */; };
+		6A45D9A12A13897300C3B632 /* shark_3.mov in Resources */ = {isa = PBXBuildFile; fileRef = 6A45D9A02A13897300C3B632 /* shark_3.mov */; };
+		6AC960B72A0E978100D7D1C3 /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AC960B62A0E978100D7D1C3 /* ExtensionDelegate.swift */; };
+		6AE3BBE92A0A4A7C004A9A81 /* ScheduleManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE3BBE82A0A4A7C004A9A81 /* ScheduleManager.swift */; };
+		6AFF6A7A2A10E660000A5313 /* NotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AFF6A792A10E660000A5313 /* NotificationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -97,6 +105,17 @@
 		6A0860CF2A03982500B49B95 /* JustRelax Watch AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "JustRelax Watch AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A0860D32A03982500B49B95 /* JustRelax_Watch_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JustRelax_Watch_AppUITests.swift; sourceTree = "<group>"; };
 		6A0860D52A03982500B49B95 /* JustRelax_Watch_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JustRelax_Watch_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6A0B28732A049B830070CB33 /* JustRelax Watch App.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "JustRelax Watch App.entitlements"; sourceTree = "<group>"; };
+		6A2FB6622A0D04F9007DC939 /* BreathingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreathingView.swift; sourceTree = "<group>"; };
+		6A38BD0C2A04F610007415DB /* JustRelax-Watch-App-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "JustRelax-Watch-App-Info.plist"; sourceTree = SOURCE_ROOT; };
+		6A45D99A2A1377BA00C3B632 /* shark_4.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = shark_4.mov; sourceTree = "<group>"; };
+		6A45D99C2A1380F800C3B632 /* shark_1.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = shark_1.mov; sourceTree = "<group>"; };
+		6A45D99E2A13812E00C3B632 /* shark_2.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = shark_2.mov; sourceTree = "<group>"; };
+		6A45D9A02A13897300C3B632 /* shark_3.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = shark_3.mov; sourceTree = "<group>"; };
+		6A8652F12A0500FE00CED4F7 /* JustRelax.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = JustRelax.entitlements; sourceTree = "<group>"; };
+		6AC960B62A0E978100D7D1C3 /* ExtensionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionDelegate.swift; sourceTree = "<group>"; };
+		6AE3BBE82A0A4A7C004A9A81 /* ScheduleManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScheduleManager.swift; sourceTree = "<group>"; };
+		6AFF6A792A10E660000A5313 /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -174,6 +193,7 @@
 		6A08608F2A03982400B49B95 /* JustRelax */ = {
 			isa = PBXGroup;
 			children = (
+				6A8652F12A0500FE00CED4F7 /* JustRelax.entitlements */,
 				6A0860902A03982400B49B95 /* JustRelaxApp.swift */,
 				6A0860922A03982400B49B95 /* ContentView.swift */,
 				6A0860942A03982400B49B95 /* Assets.xcassets */,
@@ -210,10 +230,17 @@
 		6A0860B72A03982400B49B95 /* JustRelax Watch App */ = {
 			isa = PBXGroup;
 			children = (
+				6A45D9992A13777B00C3B632 /* VideoAsset */,
+				6A38BD0C2A04F610007415DB /* JustRelax-Watch-App-Info.plist */,
+				6A0B28732A049B830070CB33 /* JustRelax Watch App.entitlements */,
 				6A0860B82A03982400B49B95 /* JustRelaxApp.swift */,
 				6A0860BA2A03982400B49B95 /* ContentView.swift */,
 				6A0860BC2A03982500B49B95 /* Assets.xcassets */,
 				6A0860BE2A03982500B49B95 /* Preview Content */,
+				6AE3BBE82A0A4A7C004A9A81 /* ScheduleManager.swift */,
+				6A2FB6622A0D04F9007DC939 /* BreathingView.swift */,
+				6AC960B62A0E978100D7D1C3 /* ExtensionDelegate.swift */,
+				6AFF6A792A10E660000A5313 /* NotificationView.swift */,
 			);
 			path = "JustRelax Watch App";
 			sourceTree = "<group>";
@@ -241,6 +268,17 @@
 				6A0860D52A03982500B49B95 /* JustRelax_Watch_AppUITestsLaunchTests.swift */,
 			);
 			path = "JustRelax Watch AppUITests";
+			sourceTree = "<group>";
+		};
+		6A45D9992A13777B00C3B632 /* VideoAsset */ = {
+			isa = PBXGroup;
+			children = (
+				6A45D99E2A13812E00C3B632 /* shark_2.mov */,
+				6A45D9A02A13897300C3B632 /* shark_3.mov */,
+				6A45D99C2A1380F800C3B632 /* shark_1.mov */,
+				6A45D99A2A1377BA00C3B632 /* shark_4.mov */,
+			);
+			path = VideoAsset;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -441,6 +479,10 @@
 			files = (
 				6A0860C02A03982500B49B95 /* Preview Assets.xcassets in Resources */,
 				6A0860BD2A03982500B49B95 /* Assets.xcassets in Resources */,
+				6A45D99B2A1377BA00C3B632 /* shark_4.mov in Resources */,
+				6A45D99D2A1380F800C3B632 /* shark_1.mov in Resources */,
+				6A45D99F2A13812E00C3B632 /* shark_2.mov in Resources */,
+				6A45D9A12A13897300C3B632 /* shark_3.mov in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -491,8 +533,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6AC960B72A0E978100D7D1C3 /* ExtensionDelegate.swift in Sources */,
 				6A0860BB2A03982400B49B95 /* ContentView.swift in Sources */,
+				6A2FB6632A0D04F9007DC939 /* BreathingView.swift in Sources */,
+				6AE3BBE92A0A4A7C004A9A81 /* ScheduleManager.swift in Sources */,
 				6A0860B92A03982400B49B95 /* JustRelaxApp.swift in Sources */,
+				6AFF6A7A2A10E660000A5313 /* NotificationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -658,13 +704,17 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "JustRelax Watch App/JustRelax Watch App.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"JustRelax Watch App/Preview Content\"";
 				DEVELOPMENT_TEAM = 9CPQ5HZ2TL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "JustRelax-Watch-App-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = JustRelax;
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "The app needs access to your Health data to track heart rate during checking bpm";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "The app needs access to your Health data to track heart rate during checking bpm";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.ada.JustRelax;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -688,13 +738,17 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "JustRelax Watch App/JustRelax Watch App.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"JustRelax Watch App/Preview Content\"";
 				DEVELOPMENT_TEAM = 9CPQ5HZ2TL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "JustRelax-Watch-App-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = JustRelax;
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "The app needs access to your Health data to track heart rate during checking bpm";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "The app needs access to your Health data to track heart rate during checking bpm";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.ada.JustRelax;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -720,6 +774,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = JustRelax/JustRelax.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"JustRelax/Preview Content\"";
@@ -741,6 +796,9 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.ada.JustRelax;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -753,6 +811,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = JustRelax/JustRelax.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"JustRelax/Preview Content\"";
@@ -774,6 +833,9 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.ada.JustRelax;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

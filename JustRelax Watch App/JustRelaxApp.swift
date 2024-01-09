@@ -9,9 +9,14 @@ import SwiftUI
 
 @main
 struct JustRelax_Watch_AppApp: App {
-    var body: some Scene {
+//    @StateObject var appState = 
+    @StateObject var scheduleManager = ScheduleManager()
+    
+    @SceneBuilder var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView {
+                HomeView()
+            }.environmentObject(scheduleManager)
         }
     }
 }

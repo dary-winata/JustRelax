@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "83DB5775-0C30-48B4-84C0-93782481DD57"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19DDC3E8-B5C1-4C7B-AE85-4CC134B6F8F2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustRelax Watch App/ScheduleManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
+            landmarkName = "workoutSession(_:didChangeTo:from:date:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "19DDC3E8-B5C1-4C7B-AE85-4CC134B6F8F2 - fc0da28f02dab0f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.HKWorkout&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #2 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JustRelax_Watch_App.ScheduleManager.workoutSession(_: __C.HKWorkoutSession, didChangeTo: __C.HKWorkoutSessionState, from: __C.HKWorkoutSessionState, date: Foundation.Date) -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "19DDC3E8-B5C1-4C7B-AE85-4CC134B6F8F2 - fc0da28f02dab0f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.HKWorkout&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #2 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JustRelax_Watch_App.ScheduleManager.workoutSession(_: __C.HKWorkoutSession, didChangeTo: __C.HKWorkoutSessionState, from: __C.HKWorkoutSessionState, date: Foundation.Date) -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3742BB56-4F76-4E7E-9FFB-68E263806C82"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustRelax Watch App/ScheduleManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "process(samples:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3742BB56-4F76-4E7E-9FFB-68E263806C82 - 8272c9bc52a9e483"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.process(samples: Swift.Array&lt;__C.HKQuantitySample&gt;, type: __C.HKQuantityTypeIdentifier) -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "3742BB56-4F76-4E7E-9FFB-68E263806C82 - 8272c9bc52a9e4e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.process(samples: Swift.Array&lt;__C.HKQuantitySample&gt;, type: __C.HKQuantityTypeIdentifier) -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "3742BB56-4F76-4E7E-9FFB-68E263806C82 - 8272c9bc52a9e4ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.process(samples: Swift.Array&lt;__C.HKQuantitySample&gt;, type: __C.HKQuantityTypeIdentifier) -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "3742BB56-4F76-4E7E-9FFB-68E263806C82 - 8272c9bc52a9e6bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.process(samples: Swift.Array&lt;__C.HKQuantitySample&gt;, type: __C.HKQuantityTypeIdentifier) -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19BA0732-6BA1-48BE-BB55-DC2D7838299A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustRelax Watch App/ScheduleManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "startWorkout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "19BA0732-6BA1-48BE-BB55-DC2D7838299A - 1b6d8e72c3690046"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.startWorkout() -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "19BA0732-6BA1-48BE-BB55-DC2D7838299A - 1b6d8e72c3690025"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.startWorkout() -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "19BA0732-6BA1-48BE-BB55-DC2D7838299A - 1b6d8e72c3690025"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.startWorkout() -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "19BA0732-6BA1-48BE-BB55-DC2D7838299A - 1b6d8e72c36902f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.startWorkout() -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "488">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B96DE2E-25F4-4DFC-8A43-F73A0F5BDDC2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustRelax Watch App/ScheduleManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "startWorkout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6B96DE2E-25F4-4DFC-8A43-F73A0F5BDDC2 - 1b6d8e72c36901a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.startWorkout() -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "560">
+               </Location>
+               <Location
+                  uuid = "6B96DE2E-25F4-4DFC-8A43-F73A0F5BDDC2 - 1b6d8e72c3690188"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.startWorkout() -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "804">
+               </Location>
+               <Location
+                  uuid = "6B96DE2E-25F4-4DFC-8A43-F73A0F5BDDC2 - 1b6d8e72c3690188"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.startWorkout() -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "940">
+               </Location>
+               <Location
+                  uuid = "6B96DE2E-25F4-4DFC-8A43-F73A0F5BDDC2 - 1b6d8e72c368fc26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.startWorkout() -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "940">
+               </Location>
+               <Location
+                  uuid = "6B96DE2E-25F4-4DFC-8A43-F73A0F5BDDC2 - 1b6d8e72c368fc47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.startWorkout() -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "940">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8B072F9-F2E4-4806-99DD-57FEE908D2C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustRelax Watch App/ScheduleManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "startWorkout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D8B072F9-F2E4-4806-99DD-57FEE908D2C9 - 1b6d8e72c3690188"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.startWorkout() -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "756">
+               </Location>
+               <Location
+                  uuid = "D8B072F9-F2E4-4806-99DD-57FEE908D2C9 - 1b6d8e72c3690277"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.startWorkout() -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1004">
+               </Location>
+               <Location
+                  uuid = "D8B072F9-F2E4-4806-99DD-57FEE908D2C9 - 1b6d8e72c3690277"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.startWorkout() -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+               <Location
+                  uuid = "D8B072F9-F2E4-4806-99DD-57FEE908D2C9 - 1b6d8e72c368fc05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.startWorkout() -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+               <Location
+                  uuid = "D8B072F9-F2E4-4806-99DD-57FEE908D2C9 - 1b6d8e72c368fc26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.startWorkout() -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABD2087B-E9DE-4CC2-9557-844BF8B63F51"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustRelax Watch App/ScheduleManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "205"
+            endingLineNumber = "205"
+            landmarkName = "workoutBuilder(_:didCollectDataOf:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ABD2087B-E9DE-4CC2-9557-844BF8B63F51 - aa4404004b55b77e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.workoutBuilder(_: __C.HKLiveWorkoutBuilder, didCollectDataOf: Swift.Set&lt;__C.HKSampleType&gt;) -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "ABD2087B-E9DE-4CC2-9557-844BF8B63F51 - aa4404004b55b71f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.workoutBuilder(_: __C.HKLiveWorkoutBuilder, didCollectDataOf: Swift.Set&lt;__C.HKSampleType&gt;) -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "ABD2087B-E9DE-4CC2-9557-844BF8B63F51 - aa4404004b55b751"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.workoutBuilder(_: __C.HKLiveWorkoutBuilder, didCollectDataOf: Swift.Set&lt;__C.HKSampleType&gt;) -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "ABD2087B-E9DE-4CC2-9557-844BF8B63F51 - aa4404004b55b10c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.workoutBuilder(_: __C.HKLiveWorkoutBuilder, didCollectDataOf: Swift.Set&lt;__C.HKSampleType&gt;) -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "177"
+                  endingLineNumber = "177"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "ABD2087B-E9DE-4CC2-9557-844BF8B63F51 - aa4404004b55b1e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustRelax_Watch_App.ScheduleManager.workoutBuilder(_: __C.HKLiveWorkoutBuilder, didCollectDataOf: Swift.Set&lt;__C.HKSampleType&gt;) -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5725153-FFE4-4E0F-9BFC-6469F3F7128D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustRelax Watch App/ScheduleManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "235"
+            endingLineNumber = "235"
+            landmarkName = "workoutSession(_:didChangeTo:from:date:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A5725153-FFE4-4E0F-9BFC-6469F3F7128D - a09fcef1074b540e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JustRelax_Watch_App.ScheduleManager.workoutSession(_: __C.HKWorkoutSession, didChangeTo: __C.HKWorkoutSessionState, from: __C.HKWorkoutSessionState, date: Foundation.Date) -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "235"
+                  endingLineNumber = "235"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "A5725153-FFE4-4E0F-9BFC-6469F3F7128D - fc0da28f02dab0f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.HKWorkout&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #2 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JustRelax_Watch_App.ScheduleManager.workoutSession(_: __C.HKWorkoutSession, didChangeTo: __C.HKWorkoutSessionState, from: __C.HKWorkoutSessionState, date: Foundation.Date) -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "A5725153-FFE4-4E0F-9BFC-6469F3F7128D - a09fcef1074b540e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JustRelax_Watch_App.ScheduleManager.workoutSession(_: __C.HKWorkoutSession, didChangeTo: __C.HKWorkoutSessionState, from: __C.HKWorkoutSessionState, date: Foundation.Date) -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "235"
+                  endingLineNumber = "235"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "A5725153-FFE4-4E0F-9BFC-6469F3F7128D - fc0da28f02dab0f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.HKWorkout&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #2 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JustRelax_Watch_App.ScheduleManager.workoutSession(_: __C.HKWorkoutSession, didChangeTo: __C.HKWorkoutSessionState, from: __C.HKWorkoutSessionState, date: Foundation.Date) -&gt; ()"
+                  moduleName = "JustRelax Watch App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darywinata/Documents/tugas/JustRelax/JustRelax%20Watch%20App/ScheduleManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7411D18-A287-407E-95D8-983FDB1E4D8C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustRelax Watch App/ScheduleManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "startWorkout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5403F1A6-9B3E-424B-9C6E-0A7CB204A732"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustRelax Watch App/ScheduleManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "startWorkout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
